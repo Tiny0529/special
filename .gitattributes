@@ -1,1 +1,2 @@
 *.ipa filter=lfs diff=lfs merge=lfs -text
+testNoEnough.ipa filter=lfs diff=lfs merge=lfs -text
